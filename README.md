@@ -1,6 +1,6 @@
 ## Welcome to the Bloodriders Pages
 
-An Android app for blood-bike riders (and drivers!).
+An Android app for blood-bike riders (and drivers!) - those marvellous individuals who give up their own time to transport blood products to those in need. Today, this app will just make your life a little bit easier but the plan is to add further features which will enhance safety.
 
 Version 0.1 is live and the roadmap looks like this:
 - duty reminders to remind you to send that READY message.
