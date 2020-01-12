@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to the Bloodriders Pages
 
-You can use the [editor on GitHub](https://github.com/roxburd/bloodriders/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+An Android app for blood-bike riders (and drivers!).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roxburd/bloodriders/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Version 0.1 is live and the roadmap looks like this:
+- duty reminders to remind you to send that READY message.
+- send live location
+- auto-tracking, sending location if you stop moving.
+ 
+Many thanks to our users and testers. Don't be shy - say Hi and give us your suggestions for future features.
+ 
+### Privacy policy
+If you give permission, this app reads your name from your Google profile and your controller details from your address book. All of this data is visible and editable on the Settings screen. No other personal or sensitive data is read or held by this app. The data is stored securely within the app and not communicated anywhere else except to your text app when you click 'OK' to send a message - at this point the data is submitted to your text app as a draft for you to edit, send or cancel as you please.
