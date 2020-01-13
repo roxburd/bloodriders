@@ -1,4 +1,4 @@
-![Logo](icon.png)
+![Logo](ic_launcher.png)
 
 ## Welcome to the Bloodriders Pages
 
