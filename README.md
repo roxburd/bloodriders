@@ -8,6 +8,7 @@ Version 0.1 is live and the roadmap looks like this:
 - duty reminders to remind you to send that READY message.
 - send live location.
 - auto-tracking, sending location if you stop moving.
+- support for other regions (different message formats, etc.)
  
 Many thanks to our users and testers. Don't be shy - say Hi and give us your suggestions for future features.
  
