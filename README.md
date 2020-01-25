@@ -11,3 +11,5 @@ Version 0.1 is live and the roadmap looks like this:
 - support for other regions (different message formats, etc.)
  
 Many thanks to our users and testers. Don't be shy - say Hi and give us your suggestions for future features.
+
+[Privacy Policy](https://roxburd.github.io/bloodriders/privacy)
