@@ -10,6 +10,6 @@ If you give the 'Contacts' permission, this app reads your name from your Google
  2) if you have switched the tracker on and it detects that your device has been stationary for a prolonged period and you have failed to respond to alerts - the tracker will send your name and your device's precise location directly to the controller.
 
 ### Privacy policy
-We will keep your data safe and secure. The data will not be allowed outside of the app except in SMS (text) messages. Apart from the tracker, whenever your data is allowed outside the app, it is displayed in your regular SMS (text) app where you can review and edit it  and decide whether to send or not. The tracker will send your data to the controller automatically if your device has been stationary for a prolonged period and you have failed to respond to alerts.
+We will keep your data safe and secure. The data will not be allowed outside of the app except in SMS (text) messages. Apart from the tracker, whenever your data is allowed outside the app, it is displayed in your regular SMS (text) app where you can review and edit it  and decide whether to send or not. If you choose to switch it on, the tracker will send your name and location to the controller automatically if your device has been stationary for a prolonged period and you have failed to respond to alerts.
 
 [Main Page](https://roxburd.github.io/bloodriders/)
