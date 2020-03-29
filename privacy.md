@@ -8,8 +8,10 @@ If you give the 'Contacts' permission, this app reads your name from your Google
  1) to your SMS (text) app when you click 'OK' to send a message - at this point the data is submitted to your SMS (text) app as a draft message for you to edit, send or cancel as you please.
  
  2) if you have switched the tracker on and it detects that your device has been stationary for a prolonged period and you have failed to respond to alerts - the tracker will send your name and your device's precise location directly to the controller.
+ 
+The app also reports analytics data (pages viewed, problems, etc.) back to a central server for analysis. This data helps us understand how people use the app and where there may be problems (such as the app being difficult to use). This data includes no personal data and cannot be attributed to individual users. This feature complies with Google's rules and regulations and our legal requirements under General Data Protection Regulation (GDPR).
 
 ### Privacy policy
-We will keep your data safe and secure. The data will not be allowed outside of the app except in SMS (text) messages. Apart from the tracker, whenever your data is allowed outside the app, it is displayed in your regular SMS (text) app where you can review and edit it  and decide whether to send or not. If you choose to switch it on, the tracker will send your name and location to the controller automatically if your device has been stationary for a prolonged period and you have failed to respond to alerts.
+We will keep your personal data safe and secure. The data will not be allowed outside of the app except in SMS (text) messages. Apart from the tracker, whenever your data is allowed outside the app, it is displayed in your regular SMS (text) app where you can review and edit it and decide whether to send or not. If you choose to switch it on, the tracker will send your name and location to the controller automatically if your device has been stationary for a prolonged period and you have failed to respond to alerts.
 
 [Main Page](https://roxburd.github.io/bloodriders/)
