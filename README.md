@@ -8,9 +8,6 @@ The app gives you reminders to send your ready-for-duty message, automates your 
 
 It also offers a tracker, the use of which is optional - if you use the tracker it will send your precise location to the controller if you are unexpectedly stationary and fail to respond to alerts.
 
-The future roadmap looks like this:
-- support for other regions (different message formats, etc.)
- 
-Many thanks to our users and testers. Don't be shy - say Hi and give us your suggestions for future features.
+The app currently includes profiles tailor-made for SERVSC (Suffolk/Cambridgeshire), SERVSC-AA (their Air Ambulance service) and the Severn Freewheelers in Gloucestershire. The use of profiles makes it easy to extend the app to support further groups round the country.
 
 [Privacy Policy](https://roxburd.github.io/bloodriders/privacy)
