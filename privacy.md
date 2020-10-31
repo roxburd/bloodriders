@@ -16,7 +16,7 @@ The data is stored securely within the app and not communicated anywhere else ex
  2) if you have switched the Tracker on and it detects that your device has been stationary for a prolonged period and you have failed to respond to alerts - the Tracker will send your name and your device's precise location directly to the controller.
 
 ### The Tracker
-The Tracker holds your location data in volatile memory (rather than being written to permanent storage) to enhance security. It deletes your location data points after a maximum of 5 minutes - the data is kept just long enough to work out if you're moving.
+The Tracker holds your location data in volatile memory (rather than being written to permanent storage) to enhance security. Your location data is deleted when the Tracker is stopped.
 
 ### Analytics
 The app reports analytics data (pages viewed, problems, etc.) back to a central server for analysis. This data helps us understand how people use the app and how we can improve it. This data includes no personal data and cannot be attributed to individual users. This feature complies with Google's rules and regulations and our legal obligations under General Data Protection Regulation (GDPR).
