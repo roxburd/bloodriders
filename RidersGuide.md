@@ -2,7 +2,7 @@
 
 ## Bloodriders Pages: Rider's Guide
 
-The app is designed to make life simpler for bloodrunners without making extra work for controllers. In fact, controller's shouldn't be able to tell whether you're using the app or not.
+The app is designed to make life simpler for bloodrunners without making extra work for controllers. In fact, most of the time, controller's shouldn't be able to tell whether you're using the app or not.
 
 The app provides a number of features which help bloodrunners:
 - duty alarms remind bloodrunners to report for duty, with controller details and message all set up, ready to send.
