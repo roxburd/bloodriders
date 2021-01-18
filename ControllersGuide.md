@@ -18,15 +18,15 @@ The app provides traffic information tailored to the bloodrunner (sourced from H
 
 ### Location Send
 
-The app allows the user to send their current location to their controller. If Alex sends their location the controller will receive a message like this:
+The app allows the user to send their current location to their controller. If Alex sends their location (unedited) the controller will receive a message like this:
 
-Alex -- LOCATION: 54.7174, -2.3431272 Accuracy: 2m, Time: 20:42 -- [https://www.google.com/maps/search/?api=1&query=54.7174,-2.3431272](https://www.google.com/maps/search/?api=1&query=54.7174,-2.3431272) -- Disclaimer: Location data unverified.
+Alex -- LOCATION: 54.7198, -2.3478 Accuracy: 2m, Time: 20:42 -- [https://www.google.com/maps/search/?api=1&query=54.7198,-2.3478](https://www.google.com/maps/search/?api=1&query=54.7198,-2.3478) -- Disclaimer: Location data unverified.
 
 ### Tracker
 
 The app includes a feature called the Tracker. It tracks the user and if they stop somewhere unexpected (i.e. not at a hand-over, hospital, etc.) and do not respond to alerts, their location is automatically sent to their controller. If Alex stops and is unresponsive, the Tracker will send a message like this:
 
-Alex -- TRACKER: This device appears to have been stationary for 10 minutes. Location: 54.7174, -2.3431272 Accuracy: 2m, Time: 20:42 -- [https://www.google.com/maps/search/?api=1&query=54.7174,-2.3431272](https://www.google.com/maps/search/?api=1&query=54.7174,-2.3431272) -- Disclaimer: Location data unverified.
+Alex -- TRACKER: This device appears to have been stationary for 10 minutes. Location: 54.7198, -2.3478 Accuracy: 2m, Time: 20:42 -- [https://www.google.com/maps/search/?api=1&query=54.7198,-2.3478](https://www.google.com/maps/search/?api=1&query=54.7198,-2.3478) -- Disclaimer: Location data unverified.
 
 ### Controller Requirements
 
