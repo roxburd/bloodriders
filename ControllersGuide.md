@@ -30,7 +30,7 @@ Alex -- TRACKER: This device appears to have been stationary for 10 minutes. Loc
 
 ### Controller Requirements
 
-It is important to note that none of the functionality requires the controller to have either the Bloodriders app or an Android phone. The messages are all sent by SMS (text) message and the links in the Location/Tracker messages can be viewed on any machine (smartphone/laptop/desktop) with an Internet connection and a browser (or in Google Maps, if installed).<BR>
+It is important to note that none of the functionality requires the controller to have either the Bloodriders app or an Android phone. The messages are all sent by SMS (text) message and the links in the Location/Tracker messages can be viewed on any machine (smartphone/laptop/desktop) with an Internet connection and a browser.<BR>
 (Click on the links in the examples above to see exactly what you'll see if you receive a Location Send/Tracker message)
 
 [Main Page](https://roxburd.github.io/bloodriders/)
