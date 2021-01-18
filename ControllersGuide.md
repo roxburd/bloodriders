@@ -20,13 +20,13 @@ The app provides traffic information tailored to the bloodrunner (sourced from H
 
 The app allows the user to send their current location to their controller. The controller will receive a message in the following format:
 
-Dave Roxburgh -- LOCATION: 52.0568662, 1.1961801 Accuracy: 2m, Time: 20:42 -- [https://www.google.com/maps/search/?api=1&query=52.0568662,1.1961801](https://www.google.com/maps/search/?api=1&query=52.0568662,1.1961801) -- Disclaimer: Location data unverified.
+Dave Roxburgh -- LOCATION: 52.0568662, 1.1961801 Accuracy: 2m, Time: 20:42 -- [https://www.google.com/maps/search/?api=1&query=51.4682,-0.0934](https://www.google.com/maps/search/?api=1&query=51.4682,-0.0934) -- Disclaimer: Location data unverified.
 
 ### Tracker
 
 The app includes a feature called the Tracker. It tracks the user and if they stop somewhere unexpected (i.e. not at a hand-over, hospital, etc.) and do not respond to alerts, their location is automatically sent to their controller. Tracker messages are formatted as follows:
 
-Dave Roxburgh -- TRACKER: This device appears to have been stationary for 10 minutes. Location: 52.0568662, 1.1961801 Accuracy: 2m, Time: 20:42 -- [https://www.google.com/maps/search/?api=1&query=52.0568662,1.1961801](https://www.google.com/maps/search/?api=1&query=52.0568662,1.1961801) -- Disclaimer: Location data unverified.
+Dave Roxburgh -- TRACKER: This device appears to have been stationary for 10 minutes. Location: 52.0568662, 1.1961801 Accuracy: 2m, Time: 20:42 -- [https://www.google.com/maps/search/?api=1&query=51.4682,-0.0934](https://www.google.com/maps/search/?api=1&query=51.4682,-0.0934) -- Disclaimer: Location data unverified.
 
 ### Controller Requirements
 
